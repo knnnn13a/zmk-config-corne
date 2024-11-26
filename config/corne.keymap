@@ -217,7 +217,7 @@
             bindings = <
 &trans      &kp N1  &kp N2    &kp N3        &kp N4           &kp N5           &kp N6   &kp N7  &kp N8  &kp LC(B)  &kp LC(S)  &trans
 &caps_word  &trans  &trans    &kp UP_ARROW  &browsertab      &kp PAGE_UP      &kp N0   &kp N4  &kp N5  &kp N6     &trans     &trans
-&trans      &trans  &kp LEFT  &kp DOWN      &kp RIGHT_ARROW  &kp PAGE_DOWN    &trans   &kp N1  &kp N2  &kp N3     &kp RC(C)  &kp LC(V)
+&trans      &trans  &kp LEFT  &kp DOWN      &kp RIGHT_ARROW  &kp PAGE_DOWN    &trans   &kp N1  &kp N2  &kp LC(C)  &kp RC(V)  &kp LC(V)
                               &kp LGUI      &trans           &kp SPACE        &kp RET  &trans  &trans
             >;
         };
