@@ -201,7 +201,7 @@
 &kp TAB    &kp Q  &kp W  &kp E     &kp R  &kp T        &kp LEFT_BRACKET   &kp LC(Z)  &kp E         &kp P  &kp G      &kp BACKSPACE
 &kp LSHFT  &kp A  &kp S  &kp D     &kp F  &kp G        &kp RIGHT_BRACKET  &kp LC(Y)  &kp LC(W)     &kp B  &kp LC(T)  &kp SQT
 &kp LCTRL  &kp Z  &kp X  &kp C     &kp V  &kp B        &mo 1              &kp C      &kp DEL       &kp U  &kp LC(U)  &kp RSHFT
-                         &kp LGUI  &mo 3  &kp SPACE    &kp M              &kp K      &kp LEFT_ALT
+                         &kp LGUI  &mo 2  &kp SPACE    &kp M              &kp K      &kp LEFT_ALT
             >;
         };
 
